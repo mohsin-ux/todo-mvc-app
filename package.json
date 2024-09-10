@@ -8,8 +8,8 @@
     "test": "test"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "live-server"
+    "dev": "live-server",
+    "test": "node test/todo-app.test.js"
   },
   "keywords": [],
   "author": "",
